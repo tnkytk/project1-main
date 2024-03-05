@@ -1,0 +1,35 @@
+System information
+System:		
+Current User:	git
+Using RVM:	no
+Ruby Version:	3.1.4p223
+Gem Version:	3.4.22
+Bundler Version:2.5.4
+Rake Version:	13.0.6
+Redis Version:	7.0.15
+Sidekiq Version:7.1.6
+Go Version:	unknown
+
+GitLab information
+Version:	16.8.1
+Revision:	a658d811568
+Directory:	/opt/gitlab/embedded/service/gitlab-rails
+DB Adapter:	PostgreSQL
+DB Version:	13.12
+URL:		https://192.168.109.134
+HTTP Clone URL:	https://192.168.109.134/some-group/some-project.git
+SSH Clone URL:	git@192.168.109.134:some-group/some-project.git
+Using LDAP:	no
+Using Omniauth:	yes
+Omniauth Providers: 
+
+GitLab Shell
+Version:	14.33.0
+Repository storages:
+- default: 	unix:/var/opt/gitlab/gitaly/gitaly.socket
+GitLab Shell path:		/opt/gitlab/embedded/service/gitlab-shell
+
+Gitaly
+- default Address: 	unix:/var/opt/gitlab/gitaly/gitaly.socket
+- default Version: 	16.8.1
+- default Git Version: 	2.42.0
